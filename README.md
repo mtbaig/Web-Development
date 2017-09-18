@@ -1,2 +1,2 @@
-# Web-Development
-This repositors will contain my practice code for web development.
+# My Protfolio
+This repositors will contain the files and folders required to develop my online portfolio.
